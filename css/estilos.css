@@ -1,0 +1,52 @@
+.imagen {
+    max-width:100%;
+}
+
+a {
+    cursor:pointer;
+}
+
+.alerta {
+    font-weight:700;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.modal-contenedor {
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+
+.img-carrito {
+    width:200px;
+    padding:20px;
+} 
+
+.modal-content {
+    background-color: #fcfcfc;
+}
+
+.parrafo {
+    font-weight: 900;
+    font-style: italic;
+}
+
+#precioTotal {
+    margin:0;
+    padding:0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+}
+
+.boton {
+    opacity:0;
+}
